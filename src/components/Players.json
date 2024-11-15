@@ -1,0 +1,152 @@
+[
+  {
+    "playerId": "P001",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/388600/388629.5.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 150000
+  },
+  {
+    "playerId": "P002",
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/391000/391003.5.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 130000
+  },
+  {
+    "playerId": "P003",
+    "name": "Joe Root",
+    "country": "England",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/389800/389841.5.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 120000
+  },
+  {
+    "playerId": "P004",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/387800/387872.5.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 110000
+  },
+  {
+    "playerId": "P005",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/387600/387617.5.jpg",
+    "role": "Bowler",
+    "battingType": "Right-Handed",
+    "bowlingType": "Leg Break",
+    "biddingPrice": 90000
+  },
+  {
+    "playerId": "P006",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/387900/387923.5.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-Handed",
+    "bowlingType": "Left-Arm Orthodox",
+    "biddingPrice": 140000
+  },
+  {
+    "playerId": "P007",
+    "name": "Marnus Labuschagne",
+    "country": "Australia",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/387700/387729.5.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 125000
+  },
+  {
+    "playerId": "P008",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/389400/389441.5.jpg",
+    "role": "Bowler",
+    "battingType": "Right-Handed",
+    "bowlingType": "Right-Arm Fast",
+    "biddingPrice": 160000
+  },
+  {
+    "playerId": "P009",
+    "name": "Rohit Sharma",
+    "country": "India",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/390200/390283.5.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 110000
+  },
+  {
+    "playerId": "P010",
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/383100/383166.5.jpg",
+    "role": "Batsman",
+    "battingType": "Left-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 95000
+  },
+  {
+    "playerId": "P011",
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/389800/389837.5.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-Handed",
+    "bowlingType": "Right-Arm Fast",
+    "biddingPrice": 130000
+  },
+  {
+    "playerId": "P012",
+    "name": "KL Rahul",
+    "country": "India",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/388200/388266.5.jpg",
+    "role": "Batsman",
+    "battingType": "Right-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 115000
+  },
+  {
+    "playerId": "P013",
+    "name": "Shimron Hetmyer",
+    "country": "West Indies",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/390000/390063.5.jpg",
+    "role": "Batsman",
+    "battingType": "Left-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 95000
+  },
+  {
+    "playerId": "P014",
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/390300/390329.5.jpg",
+    "role": "Wkt-Batsman",
+    "battingType": "Right-Handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 100000
+  },
+  {
+    "playerId": "P015",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://search.espncricinfo.com/db/PICTURES/CMS/384800/384868.5.jpg",
+    "role": "Bowler",
+    "battingType": "Right-Handed",
+    "bowlingType": "Right-Arm Fast",
+    "biddingPrice": 120000
+  }
+]
